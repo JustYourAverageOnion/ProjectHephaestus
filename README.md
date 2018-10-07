@@ -1,2 +1,2 @@
 # ProjectHephaestus
-A simple game og Noughts and Crosses with Minimax algorithm :)
+A simple game of Noughts and Crosses with Minimax algorithm :)
